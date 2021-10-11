@@ -8,10 +8,10 @@ Cohort 1
 Instructor Career Goal Statement
 Instructor_TODO:
 
-< What is your career goal? (Think 5 year's from now) > Founder/COO at crypto unicorn startup,
-< Which financial services or products would you like to work with? > Ethereum,
-< Which technologies do you want to contribute to? > Web3,
-< Which problems or opportunities do you want to focus on? > Global adoption of web3,
+< What is your career goal? (Think 5 year's from now) >, Founder/COO at crypto unicorn startup
+< Which financial services or products would you like to work with? >, Ethereum
+< Which technologies do you want to contribute to? >, Web3
+< Which problems or opportunities do you want to focus on? >, Global adoption of web3
 
 Instructor mini-CV:
 Instructor_TODO:
