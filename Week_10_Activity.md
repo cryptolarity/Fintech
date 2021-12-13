@@ -17,6 +17,6 @@ Put together a simple presentation with a few slides reviewing your use case dis
 
 Be sure to answer these questions in your presentation:
 
-What is your use case? How does the industry currently function?
-Why does this use case need smart contracts? What are the benefits and how would it changes processes? Any drawbacks?
-Have any companies or dapps implemented a blockchain solution for this use case? What is the adoption like? (users, volume, funding, press coverage, etc)
+- What is your use case? How does the industry currently function?
+- Why does this use case need smart contracts? What are the benefits and how would it changes processes? Any drawbacks?
+- Have any companies or dapps implemented a blockchain solution for this use case? What is the adoption like? (users, volume, funding, press coverage, etc)
