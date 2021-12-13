@@ -11,9 +11,7 @@ Research with your groups to find sources on any pilot projects or production im
 
 #### Step Three:
 
-Put together a simple presentation with a few slides reviewing your use case discoveries.
-
-#### Step Four:
+Put together a simple presentation with a few slides reviewing your use case discoveries. Add some nice formatting and images to supplement your findings.
 
 Be sure to answer these questions in your presentation:
 
