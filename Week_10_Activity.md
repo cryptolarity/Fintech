@@ -1,7 +1,7 @@
 # Smart Contract Use Cases Assignment
 
 #### Step One:
-Discuss and research with your group and pick a general use case to present your finding to the class
+Discuss with your group and pick a general use case to present your findings to the class (it doesn't have to be one covered in class)
 
 i.e. supply chain, cross border payments, finacial services, insurance, digital collectibles, etc.
 
